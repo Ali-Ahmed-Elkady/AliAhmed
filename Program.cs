@@ -4,11 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My name is Ali");
-            Console.WriteLine("I am 25 Years Old");
-            Console.WriteLine("I like To play video games");
-            Console.ReadKey();
-            //--------------------------------------------------------------------------------------------
+            
             int x; double y; string z; bool f;
             x = 10; y = 15.5; z = "ali"; f = true;
             Console.WriteLine(x);
